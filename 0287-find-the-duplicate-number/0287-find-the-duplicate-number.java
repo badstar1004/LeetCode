@@ -17,6 +17,7 @@ class Solution {
             fast = nums[fast];
         }
 
+        System.gc();
         return slow;
     }
 }
