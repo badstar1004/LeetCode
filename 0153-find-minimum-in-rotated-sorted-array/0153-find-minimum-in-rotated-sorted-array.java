@@ -1,6 +1,6 @@
 class Solution {
     public int findMin(int[] nums) {
-        // 이분법
+        // 이분탐색
         int left = 0;
         int right = nums.length - 1;
 
