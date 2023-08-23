@@ -7,6 +7,7 @@ class Solution {
             answer[2 * i + 1] = nums[i + n];
         }
 
+        System.gc();
         return answer;
     }
 }
