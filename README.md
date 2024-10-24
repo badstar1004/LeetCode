@@ -24,4 +24,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1002-maximum-width-ramp](https://github.com/badstar1004/LeetCode/tree/master/1002-maximum-width-ramp) |
+## Tree
+|  |
+| ------- |
+| [0988-flip-equivalent-binary-trees](https://github.com/badstar1004/LeetCode/tree/master/0988-flip-equivalent-binary-trees) |
+## Depth-First Search
+|  |
+| ------- |
+| [0988-flip-equivalent-binary-trees](https://github.com/badstar1004/LeetCode/tree/master/0988-flip-equivalent-binary-trees) |
+## Binary Tree
+|  |
+| ------- |
+| [0988-flip-equivalent-binary-trees](https://github.com/badstar1004/LeetCode/tree/master/0988-flip-equivalent-binary-trees) |
 <!---LeetCode Topics End-->
