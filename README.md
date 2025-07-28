@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/badstar1004/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/badstar1004/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [3451-string-compression-iii](https://github.com/badstar1004/LeetCode/tree/master/3451-string-compression-iii) |
 ## Stack
@@ -21,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/badstar1004/LeetCode/tree/master/0014-longest-common-prefix) |
 | [1002-maximum-width-ramp](https://github.com/badstar1004/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/badstar1004/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Monotonic Stack
@@ -44,4 +46,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/badstar1004/LeetCode/tree/master/0570-managers-with-at-least-5-direct-reports) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/badstar1004/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
