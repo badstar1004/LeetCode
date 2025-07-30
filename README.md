@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1002-maximum-width-ramp](https://github.com/badstar1004/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/badstar1004/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [3221-find-the-peaks](https://github.com/badstar1004/LeetCode/tree/master/3221-find-the-peaks) |
+| [3704-count-partitions-with-even-sum-difference](https://github.com/badstar1004/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -55,4 +56,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3221-find-the-peaks](https://github.com/badstar1004/LeetCode/tree/master/3221-find-the-peaks) |
+## Math
+|  |
+| ------- |
+| [3704-count-partitions-with-even-sum-difference](https://github.com/badstar1004/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
+## Prefix Sum
+|  |
+| ------- |
+| [3704-count-partitions-with-even-sum-difference](https://github.com/badstar1004/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
 <!---LeetCode Topics End-->
