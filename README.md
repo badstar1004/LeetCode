@@ -60,9 +60,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0326-power-of-three](https://github.com/badstar1004/LeetCode/tree/master/0326-power-of-three) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/badstar1004/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Prefix Sum
 |  |
 | ------- |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/badstar1004/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/badstar1004/LeetCode/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
