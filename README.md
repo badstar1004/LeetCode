@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/badstar1004/LeetCode/tree/master/0570-managers-with-at-least-5-direct-reports) |
+| [1179-game-play-analysis-i](https://github.com/badstar1004/LeetCode/tree/master/1179-game-play-analysis-i) |
 | [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/badstar1004/LeetCode/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
 | [1908-recyclable-and-low-fat-products](https://github.com/badstar1004/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
 ## Trie
