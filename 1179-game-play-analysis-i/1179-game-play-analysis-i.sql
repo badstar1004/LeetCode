@@ -1,0 +1,6 @@
+/* Write your PL/SQL query statement below */
+    SELECT PLAYER_ID
+         , TO_CHAR(MIN(EVENT_DATE), 'YYYY-MM-DD')  AS FIRST_LOGIN
+      FROM ACTIVITY
+  GROUP BY PLAYER_ID
+  ORDER BY PLAYER_ID;
