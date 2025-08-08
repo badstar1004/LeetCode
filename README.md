@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/badstar1004/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/badstar1004/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1002-maximum-width-ramp](https://github.com/badstar1004/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/badstar1004/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [3221-find-the-peaks](https://github.com/badstar1004/LeetCode/tree/master/3221-find-the-peaks) |
@@ -76,4 +77,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/badstar1004/LeetCode/tree/master/0326-power-of-three) |
+## Hash Table
+|  |
+| ------- |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/badstar1004/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 <!---LeetCode Topics End-->
