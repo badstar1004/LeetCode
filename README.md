@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/badstar1004/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0434-number-of-segments-in-a-string](https://github.com/badstar1004/LeetCode/tree/master/0434-number-of-segments-in-a-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/badstar1004/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [3451-string-compression-iii](https://github.com/badstar1004/LeetCode/tree/master/3451-string-compression-iii) |
 ## Stack
