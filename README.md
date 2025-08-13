@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/badstar1004/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0434-number-of-segments-in-a-string](https://github.com/badstar1004/LeetCode/tree/master/0434-number-of-segments-in-a-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/badstar1004/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/badstar1004/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3451-string-compression-iii](https://github.com/badstar1004/LeetCode/tree/master/3451-string-compression-iii) |
 ## Stack
 |  |
@@ -29,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/badstar1004/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1002-maximum-width-ramp](https://github.com/badstar1004/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/badstar1004/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/badstar1004/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3221-find-the-peaks](https://github.com/badstar1004/LeetCode/tree/master/3221-find-the-peaks) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/badstar1004/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Monotonic Stack
@@ -86,4 +88,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/badstar1004/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/badstar1004/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
+## Simulation
+|  |
+| ------- |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/badstar1004/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
 <!---LeetCode Topics End-->
