@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/badstar1004/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/badstar1004/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3451-string-compression-iii](https://github.com/badstar1004/LeetCode/tree/master/3451-string-compression-iii) |
+| [3567-convert-date-to-binary](https://github.com/badstar1004/LeetCode/tree/master/3567-convert-date-to-binary) |
 ## Stack
 |  |
 | ------- |
@@ -75,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/badstar1004/LeetCode/tree/master/0326-power-of-three) |
+| [3567-convert-date-to-binary](https://github.com/badstar1004/LeetCode/tree/master/3567-convert-date-to-binary) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/badstar1004/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Prefix Sum
 |  |
