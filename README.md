@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/badstar1004/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/badstar1004/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/badstar1004/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1002-maximum-width-ramp](https://github.com/badstar1004/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/badstar1004/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -89,10 +90,23 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/badstar1004/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/badstar1004/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/badstar1004/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## Simulation
 |  |
 | ------- |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/badstar1004/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
+## Two Pointers
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/badstar1004/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/badstar1004/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+## Sorting
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/badstar1004/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 <!---LeetCode Topics End-->
